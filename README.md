@@ -1,7 +1,9 @@
 # DissonanceVoiceSettings
 Allows changing various Dissonance VOIP/voice chat settings.
 
-# Confg options
+Please report bugs on github: https://github.com/lukeprime/DissonanceVoiceSettings/issues
+
+# Config options
 ## Codec
 ForwardErrorCorrection = true | false *(default=true)*
 
